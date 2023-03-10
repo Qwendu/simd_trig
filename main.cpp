@@ -2,7 +2,7 @@
 
 
 
-#include "fast_math.hpp"
+#include "simd_trig.hpp"
 
 #include <stdint.h>
 #define _USE_MATH_DEFINES

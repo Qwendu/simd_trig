@@ -11,7 +11,7 @@ Do not use this for anything numerical really.
 Nevertheless samples.csv compares my implementation with the 'cmath' implementation of trigonometric functions.
 
 # SIMD
-``sinSlow`` - 1 wide   sine, branching
-``cosSlow`` - 1 wide cosine, branching
-``sinSSE4_1`` - 4 wide   sine, branchless
-``cosSSE4_1`` - 4 wide cosine, branchless
+- ``sinSlow`` - 1 wide   sine, branching
+- ``cosSlow`` - 1 wide cosine, branching
+- ``sinSSE4_1`` - 4 wide   sine, branchless
+- ``cosSSE4_1`` - 4 wide cosine, branchless
