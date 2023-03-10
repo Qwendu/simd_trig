@@ -1,5 +1,5 @@
 
-Implementations  of SIMD trig (sin/cos) functions for games.
+Implementations  of SIMD trig (sin/cos) functions for games using the MINIMAX approximation done by [A](https://gist.github.com/publik-void/067f7f2fef32dbe5c27d6e215f824c91)
 
 Focus is on quick computation without too much error.
 
