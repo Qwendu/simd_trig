@@ -10,8 +10,8 @@ Do not use this for anything numerical really.
 
 Nevertheless samples.csv compares my implementation with the 'cmath' implementation of trigonometric functions.
 
-Sin uses 5th order polynomial (no even powers)
-Cos uses 4th order polynomial (no odd powers)
+- Sin uses 5th order polynomial (no even powers)
+- Cos uses 4th order polynomial (no odd powers)
 
 # SIMD
 - ``sinSlow`` - 1 wide   sine, branching
